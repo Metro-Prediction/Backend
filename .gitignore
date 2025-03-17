@@ -4,6 +4,7 @@ venv/
 # Ignore images and other large files
 *.jpg
 *.png
+data/metro project.v1i.yolov5pytorch
 
 # Ignore compiled Python files
 __pycache__/
