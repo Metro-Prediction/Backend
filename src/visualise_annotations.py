@@ -58,5 +58,5 @@ def plot_image(image_file):
     plt.show()
 
 # Test with a random image
-sample_image = os.listdir(IMG_PATH)[30]
+sample_image = os.listdir(IMG_PATH)[25]
 plot_image(sample_image)
