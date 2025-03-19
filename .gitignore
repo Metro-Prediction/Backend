@@ -12,3 +12,6 @@ __pycache__/
 # Ignore model checkpoints
 models/*.pth
 models/*.bin
+
+#ignore yolov5
+yolov5/
