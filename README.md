@@ -13,7 +13,16 @@ git clone https://github.com/Metro-Prediction/Backend.git
 cd Backend
 ```
 
-### **2️⃣ Install Dependencies**
+### **2️⃣ Activate the Virtual Environment**
+- **Windows:**  
+  ```batch
+  venv\Scripts\activate
+  ```
+- **Linux/Mac:**  
+  ```bash
+  source venv/bin/activate
+  ```
+### **3️⃣ Install Dependencies**
 #### **🔹 Windows Users**
 Run:
 ```batch
@@ -25,16 +34,6 @@ Run:
 ```bash
 bash setup.sh
 ```
-
-### **3️⃣ Activate the Virtual Environment**
-- **Windows:**  
-  ```batch
-  venv\Scripts\activate
-  ```
-- **Linux/Mac:**  
-  ```bash
-  source venv/bin/activate
-  ```
 
 ### **4️⃣ Clone YOLOv5 (If Missing)**
 If `yolov5/` is not present, manually install it:
