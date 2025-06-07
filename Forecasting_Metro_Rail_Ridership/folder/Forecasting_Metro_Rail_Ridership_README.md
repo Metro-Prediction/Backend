@@ -79,7 +79,7 @@ The dataset `02_2023.csv` contains over 200,000 records for the entire month of 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
+   git clone https://github.com/Metro-Prediction/Backend/tree/main/Forecasting_Metro_Rail_Ridership/folder
    ```
 
 2. Open `Forecasting_Metro_Rail_Ridership.ipynb` in Jupyter Notebook or Google Colab.
